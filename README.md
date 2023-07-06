@@ -1,2 +1,3 @@
 # bookbot
-boot.dev project
+
+boot.dev project for portfolio
